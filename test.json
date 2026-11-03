@@ -1,3 +1,5 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
 #profile-title: PredbazVPN
 #subscription-userinfo: upload=0; download=0; total=1337; expire=1793876400
 #announce: base64:0KEgPDMsINCy0LDRiCDQvdC10LfRi9Cx0LvQtdC80YvQuSDRhdCw0YbQutC10YA=
