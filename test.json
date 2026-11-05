@@ -1,7 +1,7 @@
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=utf-8
 #profile-title: PredbazVPN
-#subscription-userinfo: upload=0; download=0; total=99999999999999; expire=99999999999999
+#subscription-userinfo: upload=0; download=0; total=250688651132928; expire=253392484140
 #announce: base64:0KEgPDMsINCy0LDRiCDQvdC10LfRi9Cx0LvQtdC80YvQuSDRhdCw0YbQutC10YA=
 vless://09f9fa28-7068-46f4-a5d0-f589fc948f91@194.46.59.218:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.strashirdi.com&fp=firefox&pbk=NHlJbHLF9vgyBXSV9sxDmvmKk1-hpgdDAiCq3NxQAVA&sid=86d92185556c72df&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%20%E2%9A%A1%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
 vless://09f9fa28-7068-46f4-a5d0-f589fc948f91@178.107.56.4:6443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.strashirdi.com&fp=firefox&pbk=5-p79yTuXD-7kteHz5gQnLIT5Uq0NtNj_MjWiIBpv3M&sid=b6dfe805783ca5b5&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%20%E2%9A%A1%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
